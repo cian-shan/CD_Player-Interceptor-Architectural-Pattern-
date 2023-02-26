@@ -1,3 +1,3 @@
-public interface IPushCallBack{
-public void notifyButtonPushed(Button b);
+public interface IPushCallBack {
+    public void notifyButtonPushed(Context b);
 }
